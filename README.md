@@ -17,3 +17,4 @@ _____
 1- docker build -t my-node-app .
 
 2- docker run -dp 3000:3000 --name nodeapp my-node-app
+  main
